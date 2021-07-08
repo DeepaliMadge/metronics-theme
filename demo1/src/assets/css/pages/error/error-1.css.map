@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAaA,YAAa;EACT,mBAAmB,EAAE,MAAM;EAC3B,iBAAiB,EAAE,SAAS;EAC5B,qBAAqB,EAAE,KAAK;EAC5B,eAAe,EAAE,KAAK;EAGlB,yDAAqB;IACjB,SAAS,EAAE,KAAK;IAChB,WAAW,EAAE,IAAI;IACjB,UAAU,EAAE,IAAI;IAChB,WAAW,EAAE,GAAG;IAChB,KAAK,ECGK,OAA6B;EDA3C,uDAAmB;IACf,SAAS,EAAG,MAAM;IAClB,WAAW,EAAE,IAAI;IACjB,KAAK,ECHK,OAA6B;;AC2U/C,yBAA+C;EFhUvC,yDAAqB;IACjB,MAAM,EAAE,cAAc;IACtB,SAAS,EAAE,IAAI;EAGnB,uDAAmB;IACf,WAAW,EAAE,IAAI;IACjB,aAAa,EAAE,MAAM",
+"sources": ["../../../sass/pages/error/error-1.scss","../../../sass/global/_functions.scss","../../../sass/global/_mixins.scss"],
+"names": [],
+"file": "error-1.css"
+}
